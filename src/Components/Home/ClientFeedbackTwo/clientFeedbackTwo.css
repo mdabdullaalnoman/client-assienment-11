@@ -1,0 +1,4 @@
+.border:hover {
+    box-shadow: 5px 5px 15px gray;
+    transition: all 0.5s ease;
+}

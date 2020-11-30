@@ -1,0 +1,41 @@
+.login-form {
+    height: 500px;
+    width: 50%;
+    box-shadow: 1px 1px 5px rgb(236, 235, 235);
+
+}
+
+.login-header {
+    margin-top: 30%;
+}
+
+.google-sign-in {
+    border: 1px solid gray;
+    border-radius: 28px;
+    padding: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.google-sign-in:hover {
+    background-color: #f8fafc;
+}
+
+.login-text {
+    padding: 0px 20px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.google-button {
+    background: none;
+    border: 1px solid #111430;
+    border-radius: 30px;
+    width: 80%;
+    cursor: pointer;
+}
+
+.google-icon {
+    width: 30px;
+    height: 30px;
+}
